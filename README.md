@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Threat-Intelligence/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Threat-Intelligence?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Threat-Intelligence/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Threat-Intelligence?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Threat-Intelligence/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Threat-Intelligence?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Threat-Intelligence/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Threat-Intelligence/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Threat-Intelligence?style=flat-square&color=orange" alt="Open Issues" /></a>
@@ -76,91 +76,91 @@ The following enterprise platforms provide commercial threat feeds, adversary at
 
 ## 🔓 Open-Source GitHub Projects (Sorted by Stars)
 
-The open-source CTI ecosystem provides complete data sovereignty, community-validated schemas, and vendor-neutral pipelines. Below is an exhaustive collection of leading open-source threat intelligence tools, **strictly sorted descending by GitHub Star Count**.
+The open-source CTI ecosystem provides complete data sovereignty, community-validated schemas, and vendor-neutral pipelines. Below is an exhaustive collection of leading open-source threat intelligence tools, **strictly sorted descending by GitHub Stars_Count**.
 
 ---
 
-### 1. [SpiderFoot](https://github.com/smicallef/spiderfoot) [![GitHub stars](https://img.shields.io/github/stars/smicallef/spiderfoot?style=social&color=white)](https://github.com/smicallef/spiderfoot/stargazers)
+### 1. [SpiderFoot](https://github.com/smicallef/spiderfoot) [![GitHub_Stars](https://img.shields.io/github/stars/smicallef/spiderfoot?style=social&color=white)](https://github.com/smicallef/spiderfoot/stargazers)
 * **Category**: Automated OSINT & Attack Surface Discovery | **License**: MIT
 * **Description**: High-performance OSINT automation tool with 200+ modular plugins. Queries IP addresses, domain names, e-mail addresses, subnets, ASN, and Bitcoin addresses across Shodan, VirusTotal, Censys, and dark web indexes to map target attack surfaces and reconnaissance footprints.
 
-### 2. [Sigma](https://github.com/SigmaHQ/sigma) [![GitHub stars](https://img.shields.io/github/stars/SigmaHQ/sigma?style=social&color=white)](https://github.com/SigmaHQ/sigma/stargazers)
+### 2. [Sigma](https://github.com/SigmaHQ/sigma) [![GitHub_Stars](https://img.shields.io/github/stars/SigmaHQ/sigma?style=social&color=white)](https://github.com/SigmaHQ/sigma/stargazers)
 * **Category**: Generic Threat Detection Signatures | **License**: Detection Rules / Tooling
 * **Description**: The industry standard for expressing threat detection rules in a vendor-agnostic YAML format. Facilitates rapid translation of adversary TTPs and intelligence advisories into targeted queries for Splunk, Elastic, Microsoft Sentinel, QRadar, and CrowdStrike Falcon.
 
-### 3. [OpenCTI](https://github.com/OpenCTI-Platform/opencti) [![GitHub stars](https://img.shields.io/github/stars/OpenCTI-Platform/opencti?style=social&color=white)](https://github.com/OpenCTI-Platform/opencti/stargazers)
+### 3. [OpenCTI](https://github.com/OpenCTI-Platform/opencti) [![GitHub_Stars](https://img.shields.io/github/stars/OpenCTI-Platform/opencti?style=social&color=white)](https://github.com/OpenCTI-Platform/opencti/stargazers)
 * **Category**: Comprehensive Threat Intelligence Platform (TIP) | **License**: Apache-2.0
 * **Description**: Enterprise-grade, STIX 2.1-native cyber threat intelligence platform built with GraphQL, Node.js, and Python. Structures adversary profiles, malware families, campaigns, and indicators into a dynamic knowledge graph with extensive connectors to MISP, MITRE ATT&CK, and SIEM/EDR platforms.
 
-### 4. [YARA](https://github.com/VirusTotal/yara) [![GitHub stars](https://img.shields.io/github/stars/VirusTotal/yara?style=social&color=white)](https://github.com/VirusTotal/yara/stargazers)
+### 4. [YARA](https://github.com/VirusTotal/yara) [![GitHub_Stars](https://img.shields.io/github/stars/VirusTotal/yara?style=social&color=white)](https://github.com/VirusTotal/yara/stargazers)
 * **Category**: Malware Identification & Pattern Matching | **License**: BSD-3-Clause
 * **Description**: The de-facto pattern-matching tool for malware researchers and threat intelligence analysts. Allows security teams to identify, classify, and rule-hunt binary artifacts, malicious code families, and suspicious memory artifacts across endpoints and sandboxes.
 
-### 5. [T-Pot](https://github.com/telekom-security/tpotce) [![GitHub stars](https://img.shields.io/github/stars/telekom-security/tpotce?style=social&color=white)](https://github.com/telekom-security/tpotce/stargazers)
+### 5. [T-Pot](https://github.com/telekom-security/tpotce) [![GitHub_Stars](https://img.shields.io/github/stars/telekom-security/tpotce?style=social&color=white)](https://github.com/telekom-security/tpotce/stargazers)
 * **Category**: Multi-Honeypot Platform & Telemetry Collector | **License**: GPL-3.0
 * **Description**: All-in-one, multi-architecture honeypot platform running on Debian GNU/Linux and Docker. Aggregates honeypots (Cowrie, Dionaea, Honeytrap, Conpot) with the Elastic Stack to harvest empirical, real-world attacker telemetry, zero-day exploit attempts, and active brute-force IPs.
 
-### 6. [Maltrail](https://github.com/stamparm/maltrail) [![GitHub stars](https://img.shields.io/github/stars/stamparm/maltrail?style=social&color=white)](https://github.com/stamparm/maltrail/stargazers)
+### 6. [Maltrail](https://github.com/stamparm/maltrail) [![GitHub_Stars](https://img.shields.io/github/stars/stamparm/maltrail?style=social&color=white)](https://github.com/stamparm/maltrail/stargazers)
 * **Category**: Malicious Traffic Detection & IOC Correlator | **License**: GPL-2.0
 * **Description**: Lightweight network traffic analysis system designed to detect malicious requests, command-and-control (C2) communication, and spyware activity by comparing live packet captures against blacklists and curated threat feeds.
 
-### 7. [DeepDarkCTI](https://github.com/fastfire/deepdarkCTI) [![GitHub stars](https://img.shields.io/github/stars/fastfire/deepdarkCTI?style=social&color=white)](https://github.com/fastfire/deepdarkCTI/stargazers)
+### 7. [DeepDarkCTI](https://github.com/fastfire/deepdarkCTI) [![GitHub_Stars](https://img.shields.io/github/stars/fastfire/deepdarkCTI?style=social&color=white)](https://github.com/fastfire/deepdarkCTI/stargazers)
 * **Category**: Dark Web OSINT & Ransomware Group Tracking | **License**: Community List
 * **Description**: Authoritative repository aggregating dark web (.onion), clear web, and Telegram channels utilized by active cybercriminal groups, ransomware syndicates, leak sites, and data brokers for threat intelligence research.
 
-### 8. [Cowrie](https://github.com/micheloosterhof/cowrie) [![GitHub stars](https://img.shields.io/github/stars/micheloosterhof/cowrie?style=social&color=white)](https://github.com/micheloosterhof/cowrie/stargazers)
+### 8. [Cowrie](https://github.com/micheloosterhof/cowrie) [![GitHub_Stars](https://img.shields.io/github/stars/micheloosterhof/cowrie?style=social&color=white)](https://github.com/micheloosterhof/cowrie/stargazers)
 * **Category**: Medium & High Interaction SSH/Telnet Honeypot | **License**: BSD-3-Clause
 * **Description**: Emulates an SSH and Telnet server to log brute-force attacks and capture the entire shell interaction performed by adversaries. Produces invaluable empirical threat intelligence including stolen credentials, downloaded malware payloads, and attacker commands.
 
-### 9. [MISP](https://github.com/MISP/MISP) [![GitHub stars](https://img.shields.io/github/stars/MISP/MISP?style=social&color=white)](https://github.com/MISP/MISP/stargazers)
+### 9. [MISP](https://github.com/MISP/MISP) [![GitHub_Stars](https://img.shields.io/github/stars/MISP/MISP?style=social&color=white)](https://github.com/MISP/MISP/stargazers)
 * **Category**: Threat Sharing & IOC Management Platform | **License**: AGPL-3.0
 * **Description**: The gold-standard open-source platform for sharing, storing, and correlating threat intelligence indicators of compromise (IOCs). Enables automated synchronization between CERTs, ISACs, military units, and corporate SOCs with full support for STIX/TAXII and TLP markings.
 
-### 10. [IntelOwl](https://github.com/intelowlproject/IntelOwl) [![GitHub stars](https://img.shields.io/github/stars/intelowlproject/IntelOwl?style=social&color=white)](https://github.com/intelowlproject/IntelOwl/stargazers)
+### 10. [IntelOwl](https://github.com/intelowlproject/IntelOwl) [![GitHub_Stars](https://img.shields.io/github/stars/intelowlproject/IntelOwl?style=social&color=white)](https://github.com/intelowlproject/IntelOwl/stargazers)
 * **Category**: Observable Enrichment & Triage Automation | **License**: AGPL-3.0
 * **Description**: Fast threat intelligence orchestration engine that ingests observables (IPs, domains, hashes, URLs) and queries 100+ public and commercial analyzers (VirusTotal, AbuseIPDB, GreyNoise, Shodan) concurrently in seconds via a modern Django/React architecture.
 
-### 11. [TheHive](https://github.com/TheHive-Project/TheHive) [![GitHub stars](https://img.shields.io/github/stars/TheHive-Project/TheHive?style=social&color=white)](https://github.com/TheHive-Project/TheHive/stargazers)
+### 11. [TheHive](https://github.com/TheHive-Project/TheHive) [![GitHub_Stars](https://img.shields.io/github/stars/TheHive-Project/TheHive?style=social&color=white)](https://github.com/TheHive-Project/TheHive/stargazers)
 * **Category**: Security Incident Response & Case Management | **License**: AGPL-3.0
 * **Description**: Scalable Security Incident Response Platform (SIRP) closely interconnected with MISP. Enables analysts to collaborate on security incidents, track observables, investigate task timelines, and trigger automated analytical playbooks.
 
-### 12. [MITRE ATT&CK CTI](https://github.com/mitre/cti) [![GitHub stars](https://img.shields.io/github/stars/mitre/cti?style=social&color=white)](https://github.com/mitre/cti/stargazers)
+### 12. [MITRE ATT&CK CTI](https://github.com/mitre/cti) [![GitHub_Stars](https://img.shields.io/github/stars/mitre/cti?style=social&color=white)](https://github.com/mitre/cti/stargazers)
 * **Category**: Canonical CTI Knowledge Base in STIX 2.1 | **License**: MITRE Terms
 * **Description**: Official repository containing the MITRE ATT&CK® enterprise, mobile, and ICS matrices expressed natively in STIX 2.1 format. Essential foundational dataset for mapping adversary groups (APT28, FIN7, etc.), software tools, and mitigation matrices.
 
-### 13. [Yeti](https://github.com/yeti-platform/yeti) [![GitHub stars](https://img.shields.io/github/stars/yeti-platform/yeti?style=social&color=white)](https://github.com/yeti-platform/yeti/stargazers)
+### 13. [Yeti](https://github.com/yeti-platform/yeti) [![GitHub_Stars](https://img.shields.io/github/stars/yeti-platform/yeti?style=social&color=white)](https://github.com/yeti-platform/yeti/stargazers)
 * **Category**: Threat Data Hub & Graph Analysis | **License**: Apache-2.0
 * **Description**: Unified threat repository organizing observables, indicators, TTPs, and malware campaigns. Features automated ingestion pipelines from security blogs, RSS feeds, and sandboxes, paired with an intuitive graph correlation UI and REST API.
 
-### 14. [Cortex](https://github.com/TheHive-Project/Cortex) [![GitHub stars](https://img.shields.io/github/stars/TheHive-Project/Cortex?style=social&color=white)](https://github.com/TheHive-Project/Cortex/stargazers)
+### 14. [Cortex](https://github.com/TheHive-Project/Cortex) [![GitHub_Stars](https://img.shields.io/github/stars/TheHive-Project/Cortex?style=social&color=white)](https://github.com/TheHive-Project/Cortex/stargazers)
 * **Category**: Observable Analysis & Active Response Engine | **License**: AGPL-3.0
 * **Description**: Companion execution engine for TheHive and MISP. Executes observable analysis via 100+ automated analyzers (domain reputation, malware sandboxing, IP geo-location) and triggers active response responders with a single click.
 
-### 15. [Viper](https://github.com/botherder/viper) [![GitHub stars](https://img.shields.io/github/stars/botherder/viper?style=social&color=white)](https://github.com/botherder/viper/stargazers)
+### 15. [Viper](https://github.com/botherder/viper) [![GitHub_Stars](https://img.shields.io/github/stars/botherder/viper?style=social&color=white)](https://github.com/botherder/viper/stargazers)
 * **Category**: Binary Analysis & Malware Intelligence Organizer | **License**: BSD-3-Clause
 * **Description**: Specialized binary management and analysis framework. Functions like a "metasploit for malware analysis", indexing sample hashes, extractable strings, PE headers, and YARA rules to maintain a local repository of malicious artifacts.
 
-### 16. [AIL Framework](https://github.com/CIRCL/AIL-framework) [![GitHub stars](https://img.shields.io/github/stars/CIRCL/AIL-framework?style=social&color=white)](https://github.com/CIRCL/AIL-framework/stargazers)
+### 16. [AIL Framework](https://github.com/CIRCL/AIL-framework) [![GitHub_Stars](https://img.shields.io/github/stars/CIRCL/AIL-framework?style=social&color=white)](https://github.com/CIRCL/AIL-framework/stargazers)
 * **Category**: Information Leak & Dark Web Scraper | **License**: AGPL-3.0
 * **Description**: Developed by CIRCL (Computer Incident Response Center Luxembourg), AIL is a modular platform to analyze unstructured information streams (Pastebin, Telegram, dark web forums, Tor hidden services) to uncover data leaks and credential dumps.
 
-### 17. [Harpoon](https://github.com/Te-k/harpoon) [![GitHub stars](https://img.shields.io/github/stars/Te-k/harpoon?style=social&color=white)](https://github.com/Te-k/harpoon/stargazers)
+### 17. [Harpoon](https://github.com/Te-k/harpoon) [![GitHub_Stars](https://img.shields.io/github/stars/Te-k/harpoon?style=social&color=white)](https://github.com/Te-k/harpoon/stargazers)
 * **Category**: Threat Hunting & OSINT CLI Suite | **License**: GPL-3.0
 * **Description**: Comprehensive CLI toolkit for threat analysts. Unifies queries across 40+ threat platforms (PassiveTotal, Shodan, Censys, VirusTotal, SecurityTrails, AlienVault OTX) directly from terminal pipelines.
 
-### 18. [IntelMQ](https://github.com/certtools/intelmq) [![GitHub stars](https://img.shields.io/github/stars/certtools/intelmq?style=social&color=white)](https://github.com/certtools/intelmq/stargazers)
+### 18. [IntelMQ](https://github.com/certtools/intelmq) [![GitHub_Stars](https://img.shields.io/github/stars/certtools/intelmq?style=social&color=white)](https://github.com/certtools/intelmq/stargazers)
 * **Category**: Automated Feed Processing Pipeline | **License**: AGPL-3.0
 * **Description**: Modular solution developed by European CERTs for security teams to collect and process hundreds of heterogeneous threat intelligence feeds. Features a robust bot architecture for parsing, harmonizing, and dispatching alerts to SIEMs.
 
-### 19. [ThreatIngestor](https://github.com/InQuest/ThreatIngestor) [![GitHub stars](https://img.shields.io/github/stars/InQuest/ThreatIngestor?style=social&color=white)](https://github.com/InQuest/ThreatIngestor/stargazers)
+### 19. [ThreatIngestor](https://github.com/InQuest/ThreatIngestor) [![GitHub_Stars](https://img.shields.io/github/stars/InQuest/ThreatIngestor?style=social&color=white)](https://github.com/InQuest/ThreatIngestor/stargazers)
 * **Category**: Unstructured CTI Extraction & Normalization | **License**: MIT
 * **Description**: Extracts IOCs and threat context from unstructured text sources including Twitter/X accounts, RSS feeds, PDFs, and arbitrary web pages. Emits standardized artifacts directly into MISP, OpenCTI, or local files.
 
-### 20. [PyMISP](https://github.com/MISP/PyMISP) [![GitHub stars](https://img.shields.io/github/stars/MISP/PyMISP?style=social&color=white)](https://github.com/MISP/PyMISP/stargazers)
+### 20. [PyMISP](https://github.com/MISP/PyMISP) [![GitHub_Stars](https://img.shields.io/github/stars/MISP/PyMISP?style=social&color=white)](https://github.com/MISP/PyMISP/stargazers)
 * **Category**: MISP API Python SDK | **License**: BSD-2-Clause
 * **Description**: Official Python library to interact with MISP platforms. Provides complete programmatic capability to search, add, update, and manage IOC events, sightings, tags, and warning lists.
 
-### 21. [cti-python-stix2](https://github.com/oasis-open/cti-python-stix2) [![GitHub stars](https://img.shields.io/github/stars/oasis-open/cti-python-stix2?style=social&color=white)](https://github.com/oasis-open/cti-python-stix2/stargazers)
+### 21. [cti-python-stix2](https://github.com/oasis-open/cti-python-stix2) [![GitHub_Stars](https://img.shields.io/github/stars/oasis-open/cti-python-stix2?style=social&color=white)](https://github.com/oasis-open/cti-python-stix2/stargazers)
 * **Category**: OASIS STIX 2.0 & 2.1 Python APIs | **License**: BSD-3-Clause
 * **Description**: Official OASIS Python APIs for serializing, parsing, and validating STIX 2.0 and STIX 2.1 cybersecurity threat intelligence objects and bundles.
 
